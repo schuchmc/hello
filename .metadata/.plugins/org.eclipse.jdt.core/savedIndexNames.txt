@@ -1,0 +1,9 @@
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\2895852302.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\9071306.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\4219279280.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\3328936583.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\3834188549.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\4077267792.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\3474008873.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\4230192386.index
+C:\Documents and Settings\mschuchman\hello\.metadata\.plugins\org.eclipse.jdt.core\1806736665.index
